@@ -9,7 +9,7 @@
 
  - *Cursando Análise e desenvolvimento de sistemas* 
  
- - *Estudande em desenvolvimento Fullstack WEB, * 
+ - *Estudande em desenvolvimento Fullstack WEB* 
 
  
 ## 📊 My Statistics
