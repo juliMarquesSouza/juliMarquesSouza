@@ -16,7 +16,7 @@
   
 <br>
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?juliMarquesSouza&show_icons=true&theme=dark" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=juliMarquesSouza&show_icons=true&theme=dark" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juliMarquesSouza&layout=compact&langs_count=6&theme=dark"/>
 </p>
   
