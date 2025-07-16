@@ -33,11 +33,9 @@
 
 ## 🕹️ Gráfico de Contribuições
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/juliMarquesSouza/juliMarquesSouza/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/juliMarquesSouza/juliMarquesSouza/output/pacman-contribution-graph.svg">
-  <img alt="Gráfico de contribuições estilo pacman" src="https://raw.githubusercontent.com/juliMarquesSouza/juliMarquesSouza/output/pacman-contribution-graph.svg">
-</picture> 
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=juliMarquesSouza&theme=dracula&area=true&hide_border=true" alt="Gráfico de Contribuições" />
+</p>
 
 ---
 
