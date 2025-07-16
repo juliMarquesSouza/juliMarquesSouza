@@ -16,7 +16,7 @@
 ## 🛠️ Tecnologias que uso
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=vue,ts,javascript,tailwind,vuetify,bootstrap,storybook,pinia" height="60" />
+  <img src="https://skillicons.dev/icons?i=vue,ts,javascript,tailwind,vuetify,bootstrap,pinia" height="60" />
 </div>
 
 
