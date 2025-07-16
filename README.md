@@ -31,14 +31,6 @@
 
 ---
 
-## 🏆 Conquistas
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=juliMarquesSouza&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8" height="150" />
-</div>
-
----
-
 ## 🕹️ Gráfico de Contribuições
 
 <picture>
