@@ -1,4 +1,4 @@
-<h1 align="center">Oi! Sou Juliana 🐾, Front-End Developer focada em criar coisas legais!</h1>
+<h1 align="center">Olá! Sou Juliana 🐾, Front-End Developer focada em criar coisas legais!</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=500&lines=Front-end+Developer;Vue.js+Lover;Tech+Enthusiast" />
