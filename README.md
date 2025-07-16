@@ -1,4 +1,4 @@
-<h1 align="center">Hey 👋 What's Up?</h1>
+<h1 align="center">Oi! Sou Juliana 🐾, Front-End Developer focada em criar coisas legais!</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=500&lines=Front-end+Developer;Vue.js+Lover;Tech+Enthusiast" />
@@ -34,7 +34,7 @@
 ## 🕹️ Gráfico de Contribuições
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=juliMarquesSouza&theme=dracula&area=true&hide_border=true" alt="Gráfico de Contribuições" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=juliMarquesSouza&theme=redical&area=true&custom_title=Contribuições+da+Juliana+🚀&hide_border=true" alt="Gráfico de Contribuições estilo Mario" />
 </p>
 
 ---
